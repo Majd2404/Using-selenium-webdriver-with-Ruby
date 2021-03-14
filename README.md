@@ -40,7 +40,9 @@ The first step you need to prepare your environment by installing ruby and Selen
 
 URL to download Ruby: https://www.ruby-lang.org/en/downloads/
 
-Check the version of Ruby: ruby -v
+Check the version of Ruby: 
+
++ ruby -v
 
 Install Selenium Webdriver Gem by running this command in your Command Prompt:
 
