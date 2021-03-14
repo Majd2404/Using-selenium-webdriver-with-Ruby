@@ -34,5 +34,21 @@ A distinct advantage of Selenium tests is their inherent ability to test all com
 https://www.selenium.dev/documentation/en/introduction/on_test_automation/
 
 
+**Selenium Webdrive with Ruby**
+
+The first step you need to prepare your environment by installing ruby and Selenium Webdriver Gem for Ruby:
+
+URL to download Ruby: https://www.ruby-lang.org/en/downloads/
+
+Check the version of Ruby: ruby -v
+
+Install Selenium Webdriver Gem by running this command in your Command Prompt:
+
++ gem install selenium-webdriver 
+
+You can chek your Gem list by running:
+
++ Gem list
+
 
 
