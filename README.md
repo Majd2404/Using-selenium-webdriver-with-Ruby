@@ -1,15 +1,4 @@
 
-
-
-
-https://www.youtube.com/watch?v=pHFsGWC8LSU
-
-https://www.youtube.com/watch?v=6snR8lupF5E&ab_channel=TeachYourSelfCode
-
-https://www.selenium.dev/documentation/en/introduction/on_test_automation/
-
-https://www.youtube.com/watch?v=R409XU7SSlY&list=PLUY1lsOTtPeJ074IRjKDVVvH8dRavZQCo&ab_channel=DevNami
-
 About Ruby:
 Ruby is a language of careful balance. Its creator, Yukihiro “Matz” Matsumoto, blended parts of his favorite languages (Perl, Smalltalk, Eiffel, Ada, and Lisp) to form a new language that balanced functional programming with imperative programming.
 
